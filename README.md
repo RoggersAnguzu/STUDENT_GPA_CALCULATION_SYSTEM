@@ -1,7 +1,8 @@
 # STUDENT_GPA_CALCULATION_SYSTEM
 This C# console application provides a GPA (Grade Point Average) calculator system for students. It allows users to calculate their current GPA, CGPA (Cumulative Grade Point Average), and determine if they qualify for the Dean's List based on their grades.
 
-Motivation
+Motivation.
+
 This project was created to simplify the process of calculating GPA and CGPA for students. It aims to provide a convenient tool for students to assess their academic performance and recognize their achievements by qualifying for the Dean's List.
 How to Use
 Clone the repository to your local machine:
